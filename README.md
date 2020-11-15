@@ -11,4 +11,4 @@ Onde foi aplicado o mesmo conceito da plataforma **Netflix** só que baseado no 
  4. Aṕos a intalação, para executar o projeto localhost execute **npm start**
 
  # PRINT DA HOME
- ![print-home](https://raw.githubusercontent.com/brenolapreza/happy-tree-friends/master/.images-for-git/print-home.jpg)
+ ![print-home](https://raw.githubusercontent.com/brenolapreza/happy-tree-friends/master/src/images/.images-for-git/print-home.jpg)
